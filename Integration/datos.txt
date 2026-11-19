@@ -1,0 +1,3 @@
+Tarea 1: Estudiar C++
+Tarea 2: Practicar excepciones
+Tarea 3: Aprender SQLite
